@@ -5,7 +5,7 @@ public class TestCase04 {
         System.out.println("git rm --cached git_practice2.iml");
         System.out.println("Hello world");
 
-
+        // more comments
 // the same code doesn't work with out and .idea
 //1111111111111111111111111111
 // Share project on Github (ONE TIME!!!!)
