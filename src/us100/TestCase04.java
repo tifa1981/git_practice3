@@ -5,6 +5,8 @@ public class TestCase04 {
         System.out.println("git rm --cached git_practice2.iml");
 
 
+// the same code doesn't work with out and .idea
+
 
 
 
